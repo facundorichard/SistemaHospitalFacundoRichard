@@ -1,1 +1,1 @@
-# SistemaHospitalFacundoRichard
+# SistemaHospitalFacundoRichard, implementación de lombok
